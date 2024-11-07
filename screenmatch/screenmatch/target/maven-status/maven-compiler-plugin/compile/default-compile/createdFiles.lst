@@ -1,0 +1,4 @@
+com\aluracursos\screenmatch\model\DatosSerie.class
+com\aluracursos\screenmatch\service\ConsumoAPI.class
+com\aluracursos\screenmatch\service\ConvierteDatos.class
+com\aluracursos\screenmatch\ScreenmatchApplication.class
